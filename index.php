@@ -3,7 +3,7 @@
 <head>
 	<title>ma page d'indexe</title>
 </head>
-<body style="background-color: yellow">
+<body style="background-color: pink">
 
 
 </body>
